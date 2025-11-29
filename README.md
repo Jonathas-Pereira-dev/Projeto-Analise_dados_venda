@@ -1,5 +1,5 @@
 LojaTerco - Fullstack (React + FastAPI + PostgreSQL)
----------------------------------------------------
+
 Conteúdo:
 - frontend/ (React + Vite)
 - backend_python/ (FastAPI + asyncpg)
